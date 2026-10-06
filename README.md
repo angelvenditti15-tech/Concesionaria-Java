@@ -39,4 +39,4 @@ java -cp bin Main
 
 ## Autor
 
-**Angel Venditti** · [GitHub](https://github.com/angelvenditti15-tech) · [LinkedIn](https://www.linkedin.com/in/vendittiangel/))
+**Angel Venditti** · [GitHub](https://github.com/angelvenditti15-tech) · [LinkedIn](https://www.linkedin.com/in/vendittiangel/)
