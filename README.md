@@ -1,7 +1,7 @@
 # IFES - Análisis de Sistemas - Programación 1
 ## Sistema de Concesionaria
 
-### Integrantes:
+### Integrante:
 * **Angel Venditti**
 
 ---
