@@ -36,3 +36,7 @@ Sistema de gestión de una concesionaria de vehículos desarrollado en Java. Per
 javac -d bin modelo/*.java interfaces/*.java excepciones/*.java repositorio/*.java concesionaria/*.java Main.java
 
 java -cp bin Main
+
+## Autor
+
+**Angel Venditti** · [GitHub](https://github.com/angelvenditti15-tech) · [LinkedIn](https://www.linkedin.com/in/vendittiangel/))
